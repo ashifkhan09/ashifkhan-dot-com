@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins|Raleway');
 /*List of all the colors that will be used across the site */
 :root {
-  --1st-bg-color:#d33131;
-  --2nd-bg-color:#aa2323;
   --3rd-bg-color:#faf46a;
   --4th-bg-color:#3A6A96;
   --5th-bg-color:rgba(35, 48, 60, 0.76);
